@@ -1,0 +1,8 @@
+{
+  apps: apps_v1 {
+    name
+    saasFilesV2 {
+      name
+    }
+  }
+}
